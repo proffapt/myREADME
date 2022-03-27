@@ -66,7 +66,7 @@
 
 [![PROJECT_NAME Screen Shot][product-screenshot]](https://example.com)
 
-_About the project goes here_
+_Detailed explaination of the project goes here_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -95,7 +95,7 @@ You will need to install the following dependencies for the project to work.
 
 ### Installation
 
-_Now since we are done with the setting up of environment suitable for the project to compile/run, let's install and configure the prject on your system locally now._
+_Now since we are done with the setting up of environment suitable for the project to compile/run, let's install and configure the project on your system locally now._
 
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo

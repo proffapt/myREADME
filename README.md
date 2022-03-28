@@ -23,7 +23,7 @@
 
   <p align="center">
   <!-- CHANGE -->
-    _Project one liner slogan goes here_
+    <i>Project one liner slogan goes here</i>
     <br />
     <a href="https://github.com/proffapt/PROJECT_NAME"><strong>Explore the docs »</strong></a>
     <br />

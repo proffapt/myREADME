@@ -66,7 +66,11 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 <!-- CHANGE -->
-[![PROJECT_NAME Screen Shot][product-screenshot]](https://example.com)
+<div align="center">
+  <a href="https://github.com/proffapt/PROJECT_NAME">
+    <img src=".images/screenshot.png" alt="product screenshot">
+  </a>
+</div>
 
 _Detailed explaination of the project goes here_
 

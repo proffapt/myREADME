@@ -97,10 +97,9 @@ You will need to install the following dependencies for the project to work.
 
 _Now since we are done with the setting up of environment suitable for the project to compile/run, let's install and configure the project on your system locally now._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
+1. Clone the repo
    ```sh
-   git clone https://github.com/proffapt_/Project-Name.git
+   git clone https://github.com/proffapt/Project_Name.git
    ```
 3. Install NPM packages
    ```sh

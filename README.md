@@ -99,15 +99,16 @@ _Now since we are done with the setting up of environment suitable for the proje
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/proffapt/Project_Name.git
+   git clone https://github.com/proffapt/PROJECT_NAME.git
    ```
-3. Install NPM packages
+2. Make the script executable
    ```sh
-   npm install
+   cd ./PROJECT_NAME
+   chmod +x ./PROJECT_NAME
    ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
+3. Execute the script
+   ```sh
+   ./PROJECT_NAME
    ```
 
 <p align="right">(<a href="#top">back to top</a>)</p>

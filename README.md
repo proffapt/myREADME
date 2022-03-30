@@ -1,5 +1,7 @@
 <div id="top"></div>
 
+## MUST UPDATE THE FOLLOWING FILES :  `.images`, `CHANGELOG.md`, `README.md`
+## DEPENDS ON SPECIAL CASES : `.gitignore`, `LICENSE.txt`
 
 <!-- PROJECT SHIELDS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links-->

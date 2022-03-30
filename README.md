@@ -15,7 +15,7 @@
 
 <!-- PROJECT LOGO -->
 <br />
-<!-- CHANGE -->
+<!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
     <img src=".images/logo.png" alt="Logo" width="80" height="80">
@@ -24,7 +24,7 @@
   <h3 align="center">PROJECT_NAME</h3>
 
   <p align="center">
-  <!-- CHANGE -->
+  <!-- UPDATE -->
     <i>Project one liner slogan goes here</i>
     <br />
     <a href="https://github.com/proffapt/PROJECT_NAME"><strong>Explore the docs »</strong></a>
@@ -67,7 +67,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-<!-- CHANGE -->
+<!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
     <img src=".images/screenshot.png" alt="product screenshot">
@@ -81,7 +81,7 @@ _Detailed explaination of the project goes here_
 ### Built With
 
 This project is made with following langs/frameworks.
-<!-- CHANGE -->
+<!-- UPDATE -->
 * [Next.js](https://nextjs.org/)
 * [React.js](https://reactjs.org/)
 
@@ -94,7 +94,7 @@ This project is made with following langs/frameworks.
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
-<!-- CHANGE -->
+<!-- UPDATE -->
 You will need to install the following dependencies for the project to work.
 * npm
   ```sh
@@ -104,7 +104,7 @@ You will need to install the following dependencies for the project to work.
 ### Installation
 
 _Now since we are done with the setting up of environment suitable for the project to compile/run, let's install and configure the project on your system locally now._
-<!-- CHANGE -->
+<!-- UPDATE -->
 1. Clone the repo
    ```sh
    git clone https://github.com/proffapt/PROJECT_NAME.git
@@ -124,7 +124,7 @@ _Now since we are done with the setting up of environment suitable for the proje
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-<!-- CHANGE -->
+<!-- UPDATE -->
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space.
 
 <div align="center">
@@ -138,7 +138,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <!-- ROADMAP -->
 ## Roadmap
-<!-- CHANGE -->
+<!-- UPDATE -->
 - [x] Add Changelog
 - [x] Add back to top links
 - [ ] Add Additional Templates w/ Examples
@@ -171,7 +171,7 @@ Don't forget to give the project a star! Thanks again!
 
 <!-- Changelog -->
 # Changelog
-<!-- CHANGE -->
+<!-- UPDATE -->
 ## v1.0.0
 
 ### Added or Changed
@@ -212,7 +212,7 @@ Project Link: [https://github.com/proffapt/PROJECT_NAME](https://github.com/prof
 
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
-<!-- CHANGE -->
+<!-- UPDATE -->
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -231,5 +231,5 @@ Project Link: [https://github.com/proffapt/PROJECT_NAME](https://github.com/prof
 [license-url]: https://github.com/proffapt/PROJECT_NAME/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/proffapt
-<!-- CHANGE -->
+<!-- UPDATE -->
 [product-screenshot]: .images/product_ss.png

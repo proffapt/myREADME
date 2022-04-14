@@ -101,6 +101,8 @@ You will need to install the following dependencies for the project to work.
   npm install npm@latest -g
   ```
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ### Installation
 
 _Now since we are done with the setting up of environment suitable for the project to compile/run, let's install and configure the project on your system locally now._
@@ -186,6 +188,8 @@ Don't forget to give the project a star! Thanks again!
 ### Removed
 
 - Some packages/libraries from acknowledgements I no longer use
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- LICENSE -->
 ## License

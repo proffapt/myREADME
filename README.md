@@ -44,6 +44,7 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#supports">Supports</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
@@ -75,6 +76,19 @@
 </div>
 
 _Detailed explaination of the project goes here_
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+<div id="supports"></div>
+
+### Supports:
+1. Shells
+    * `bash`
+    * `fish`
+    * `zsh`
+2. OS(s)
+    * `MacOS`[`BSD` based]
+    * any `*nix`[`GNU+Linux` and `Unix`]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

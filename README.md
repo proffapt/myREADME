@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-## MUST UPDATE THE FOLLOWING FILES :  `.images`, `CHANGELOG.md`, `README.md`
+## MUST UPDATE THE FOLLOWING FILES :  `images`, `CHANGELOG.md`, `README.md`
 ## DEPENDS ON SPECIAL CASES : `.gitignore`, `LICENSE.txt`
 
 <!-- PROJECT SHIELDS -->
@@ -18,7 +18,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img src=".images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
   
   <h3 align="center">PROJECT_NAME</h3>
@@ -71,7 +71,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img src=".images/screenshot.png" alt="product screenshot">
+    <img src="images/screenshot.png" alt="product screenshot">
   </a>
 </div>
 
@@ -145,7 +145,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img src=".images/usage.png" alt="usage">
+    <img src="images/usage.png" alt="usage">
   </a>
 </div>
 
@@ -250,4 +250,4 @@ Project Link: [https://github.com/proffapt/PROJECT_NAME](https://github.com/prof
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/proffapt
 <!-- UPDATE -->
-[product-screenshot]: .images/product_ss.png
+[product-screenshot]: images/product_ss.png

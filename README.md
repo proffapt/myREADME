@@ -1,7 +1,17 @@
-<div id="top"></div>
+# TO-DO
+This contains a bunch of files to be edited while using this templates so that one doesn't forget doing it while using this template.</br>
+Whenever you use this template you have to delete the part before #top .
 
-## MUST UPDATE THE FOLLOWING FILES :  `images`, `CHANGELOG.md`, `README.md`
-## DEPENDS ON SPECIAL CASES : `.gitignore`, `LICENSE.txt`
+### MUST UPDATE THE FOLLOWING FILES:  
+- `images`
+- `CHANGELOG.md`
+- `README.md`
+### DEPENDS ON SPECIAL CASES
+- `.gitignore`
+
+***
+
+<div id="top"></div>
 
 <!-- PROJECT SHIELDS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links-->
@@ -59,6 +69,7 @@
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
+    <li><a href="#miscelleneous">Miscelleneous</a></li>    
   </ol>
 </details>
 
@@ -168,11 +179,25 @@ See the [open issues](https://github.com/proffapt/PROJECT_NAME/issues) for a ful
 <!-- CONTACT -->
 ## Contact
 
-Arpit Bhardwaj - [Twitter](https://twitter.com/proffapt) - [Telegram](https://t.me/proffapt) - proffapt@protonmail.com
+<p>
+📫 Arpit Bhardwaj ( aka proffapt ) -   
 
-Company website: [Cybernity](https://cybernity.org) - [CybernityForum](https://cybernity.group)
-
-Project Link: [https://github.com/proffapt/PROJECT_NAME](https://github.com/proffapt/PROJECT_NAME)
+<a href="https://twitter.com/proffapt">
+  <img align="center" alt="proffapt's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
+</a>
+<a href="https://t.me/proffapt">
+  <img align="center" alt="proffapt's Telegram" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/telegram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/proffapt/">
+  <img align="center" alt="proffapt's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
+</a> 
+<a href="mailto:proffapt@pm.me">
+  <img align="center" alt="proffapt's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
+</a> 
+<a href="https://cybernity.group">
+  <img align="center" alt="proffapt's forum for cybernity" width="22px" src="https://cybernity.group/uploads/default/original/1X/a8338f86bbbedd39701c85d5f32cf3d817c04c27.png" />
+</a> 
+</p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -186,6 +211,15 @@ Project Link: [https://github.com/proffapt/PROJECT_NAME](https://github.com/prof
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## Miscelleneous
+
+Do consider looking at other paradigms of this documentation
+  - [Change-logs](CHANGELOG.md)
+  - [License used](LICENSE.txt)
+  - [Code Of Conduct](CODE_OF_CONDUCT.md)
+  - [How to contribute?](CONTRIBUTING.md)
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 

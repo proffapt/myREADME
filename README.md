@@ -214,10 +214,10 @@ See the [open issues](https://github.com/proffapt/PROJECT_NAME/issues) for a ful
 ## Miscelleneous
 
 Do consider looking at other paradigms of this documentation
-  - [Change-logs](CHANGELOG.md)
-  - [License used](LICENSE.txt)
-  - [Code Of Conduct](CODE_OF_CONDUCT.md)
-  - [How to contribute?](CONTRIBUTING.md)
+  - [Change-logs](/.github/CHANGELOG.md)
+  - [License used](/.github/LICENSE.txt)
+  - [Code Of Conduct](/.github/CODE_OF_CONDUCT.md)
+  - [How to contribute?](/.github/CONTRIBUTING.md)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

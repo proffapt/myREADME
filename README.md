@@ -28,7 +28,7 @@ Whenever you use this template you have to delete the part before #top .
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
   </a>
   
   <h3 align="center">PROJECT_NAME</h3>
@@ -79,7 +79,7 @@ Whenever you use this template you have to delete the part before #top .
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img src="images/screenshot.png" alt="product screenshot">
+    <img width="700" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
   </a>
 </div>
 
@@ -153,7 +153,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img src="images/usage.png" alt="usage">
+    <img width="1006" alt="image" src="https://user-images.githubusercontent.com/86282911/206632640-40dc440e-5ef3-4893-be48-618f2bd85f37.png">
   </a>
 </div>
 
@@ -235,5 +235,3 @@ Do consider looking at other paradigms of this documentation
 [license-url]: https://github.com/proffapt/PROJECT_NAME/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/proffapt
-<!-- UPDATE -->
-[product-screenshot]: images/product_ss.png

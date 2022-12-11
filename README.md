@@ -215,7 +215,7 @@ See the [open issues](https://github.com/proffapt/PROJECT_NAME/issues) for a ful
 
 Do consider looking at other paradigms of this documentation
   - [Change-logs](/.github/CHANGELOG.md)
-  - [License used](/.github/LICENSE.txt)
+  - [License used](/LICENSE.txt)
   - [Code Of Conduct](/.github/CODE_OF_CONDUCT.md)
   - [How to contribute?](/.github/CONTRIBUTING.md)
 

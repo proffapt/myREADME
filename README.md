@@ -69,7 +69,7 @@ Whenever you use this template you have to delete the part before #top .
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#miscelleneous">Miscelleneous</a></li>    
+    <li><a href="#miscellaneous">Miscellaneous</a></li>    
   </ol>
 </details>
 
@@ -211,7 +211,7 @@ See the [open issues](https://github.com/proffapt/PROJECT_NAME/issues) for a ful
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Miscelleneous
+## Miscellaneous
 
 Do consider looking at other paradigms of this documentation
   - [Change-logs](/.github/CHANGELOG.md)

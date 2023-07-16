@@ -3,8 +3,8 @@ This contains a bunch of files to be edited while using this templates so that o
 Whenever you use this template you have to delete the part before #top .
 
 ### MUST UPDATE THE FOLLOWING FILES:  
-- `images`
 - `CHANGELOG.md`
+- `SECURITY.md`
 - `README.md`
 ### DEPENDS ON SPECIAL CASES
 - `.gitignore`
@@ -198,6 +198,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 Do consider looking at other paradigms of this documentation
   - [Change-logs](/.github/CHANGELOG.md)
   - [License used](/LICENSE.txt)
+  - [Security policy](/.github/SECURITY.md)
   - [Code Of Conduct](/.github/CODE_OF_CONDUCT.md)
   - [How to contribute?](/.github/CONTRIBUTING.md)
 

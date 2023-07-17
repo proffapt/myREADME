@@ -1,14 +1,5 @@
 # Security Policy
 
-## Supported Versions
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 0.1.x   | :white_check_mark: |
-| 1.0.x   | :x:                |
-| 2.0.x   | :white_check_mark: |
-| < 4.0   | :x:                |
-
 ## Reporting a Vulnerability
 
 If you have discovered a vulnerability within the project, I sincerely appreciate your efforts in helping me maintain a secure system. I take security concerns seriously and encourage you to report any potential vulnerabilities promptly. This section will guide you on how to report a vulnerability and what you can expect during the process.

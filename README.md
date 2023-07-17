@@ -1,16 +1,3 @@
-# TO-DO
-This contains a bunch of files to be edited while using this templates so that one doesn't forget doing it while using this template.</br>
-Whenever you use this template you have to delete the part before #top .
-
-### MUST UPDATE THE FOLLOWING FILES:  
-- `CHANGELOG.md`
-- `SECURITY.md`
-- `README.md`
-### DEPENDS ON SPECIAL CASES
-- `.gitignore`
-
-***
-
 <div id="top"></div>
 
 <!-- PROJECT SHIELDS -->

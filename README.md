@@ -60,7 +60,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img width="700" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
+    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
   </a>
 </div>
 
@@ -134,7 +134,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img width="1006" alt="image" src="https://user-images.githubusercontent.com/86282911/206632640-40dc440e-5ef3-4893-be48-618f2bd85f37.png">
+    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632640-40dc440e-5ef3-4893-be48-618f2bd85f37.png">
   </a>
 </div>
 

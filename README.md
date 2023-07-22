@@ -20,7 +20,7 @@
   <a href="https://github.com/proffapt/PROJECT_NAME">
     <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
   </a>
-  
+
   <h3 align="center">PROJECT_NAME</h3>
 
   <p align="center">
@@ -144,7 +144,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 ## Contact
 
 <p>
-📫 Arpit Bhardwaj ( aka proffapt ) -   
+📫 Arpit Bhardwaj ( aka proffapt ) -
 
 <a href="https://twitter.com/proffapt">
   <img align="center" alt="proffapt's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
@@ -154,13 +154,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 </a>
 <a href="https://www.linkedin.com/in/proffapt/">
   <img align="center" alt="proffapt's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
-</a> 
+</a>
 <a href="mailto:proffapt@pm.me">
   <img align="center" alt="proffapt's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
-</a> 
+</a>
 <a href="https://cybernity.group">
   <img align="center" alt="proffapt's forum for cybernity" width="22px" src="https://cybernity.group/uploads/default/original/1X/a8338f86bbbedd39701c85d5f32cf3d817c04c27.png" />
-</a> 
+</a>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>

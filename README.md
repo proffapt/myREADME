@@ -43,14 +43,13 @@
 
 - [About The Project](#about-the-project)
   - [Supports](#supports)
-  - [Built With](#built-with)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contact](#contact)
 - [Acknowledgements](#acknowledgments)
-- [Miscellaneous](#miscellaneous)
+- [Additional documentation](#additional-documentation)
 
 </details>
 
@@ -81,24 +80,14 @@ _Detailed explaination of the project goes here_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-### Built With
-
-This project is made with following langs/frameworks.
-<!-- UPDATE -->
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
 
-To get a local copy up and running follow these simple steps.
+To set up a local instance of the application, follow the steps below.
 
 ### Prerequisites
 <!-- UPDATE -->
-You will need to install the following dependencies for the project to work.
+The following dependencies are required to be installed for the project to function properly:
 * npm
   ```sh
   npm install npm@latest -g
@@ -108,9 +97,9 @@ You will need to install the following dependencies for the project to work.
 
 ### Installation
 
-_Now since we are done with the setting up of environment suitable for the project to compile/run, let's install and configure the project on your system locally now._
+_Now that the environment has been set up and configured to properly compile and run the project, the next step is to install and configure the project locally on your system._
 <!-- UPDATE -->
-1. Clone the repo
+1. Clone the repository
    ```sh
    git clone https://github.com/proffapt/PROJECT_NAME.git
    ```
@@ -145,7 +134,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <p>
 📫 Arpit Bhardwaj ( aka proffapt ) -
-
 <a href="https://twitter.com/proffapt">
   <img align="center" alt="proffapt's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
 </a>
@@ -175,14 +163,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-## Miscellaneous
+## Additional documentation
 
-Do consider looking at other paradigms of this documentation
-  - [Change-logs](/.github/CHANGELOG.md)
-  - [License used](/LICENSE.txt)
-  - [Security policy](/.github/SECURITY.md)
-  - [Code Of Conduct](/.github/CODE_OF_CONDUCT.md)
-  - [How to contribute?](/.github/CONTRIBUTING.md)
+  - [Changelogs](/.github/CHANGELOG.md)
+  - [License](/LICENSE.txt)
+  - [Security Policy](/.github/SECURITY.md)
+  - [Code of Conduct](/.github/CODE_OF_CONDUCT.md)
+  - [Contribution Guidelines](/.github/CONTRIBUTING.md)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 

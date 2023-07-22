@@ -2,6 +2,8 @@
 
 <!-- PROJECT SHIELDS -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links-->
+<div align="center">
+
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
@@ -9,6 +11,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
+</div>
 
 <!-- PROJECT LOGO -->
 <br />
@@ -17,7 +20,7 @@
   <a href="https://github.com/proffapt/PROJECT_NAME">
     <img width="140" alt="image" src="https://user-images.githubusercontent.com/86282911/206632284-cb260f57-c612-4ab5-b92b-2172c341ab23.png">
   </a>
-  
+
   <h3 align="center">PROJECT_NAME</h3>
 
   <p align="center">
@@ -36,27 +39,19 @@
 
 <!-- TABLE OF CONTENTS -->
 <details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#supports">Supports</a></li>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-    <li><a href="#miscellaneous">Miscellaneous</a></li>    
-  </ol>
+<summary>Table of Contents</summary>
+
+- [About The Project](#about-the-project)
+  - [Supports](#supports)
+  - [Built With](#built-with)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgments)
+- [Miscellaneous](#miscellaneous)
+
 </details>
 
 
@@ -65,7 +60,7 @@
 <!-- UPDATE -->
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img width="700" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
+    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632547-a3b34b47-e7ae-4186-a1e6-ecda7ddb38e6.png">
   </a>
 </div>
 
@@ -139,7 +134,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 <div align="center">
   <a href="https://github.com/proffapt/PROJECT_NAME">
-    <img width="1006" alt="image" src="https://user-images.githubusercontent.com/86282911/206632640-40dc440e-5ef3-4893-be48-618f2bd85f37.png">
+    <img width="80%" alt="image" src="https://user-images.githubusercontent.com/86282911/206632640-40dc440e-5ef3-4893-be48-618f2bd85f37.png">
   </a>
 </div>
 
@@ -149,7 +144,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 ## Contact
 
 <p>
-📫 Arpit Bhardwaj ( aka proffapt ) -   
+📫 Arpit Bhardwaj ( aka proffapt ) -
 
 <a href="https://twitter.com/proffapt">
   <img align="center" alt="proffapt's Twitter " width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/twitter.svg" />
@@ -159,13 +154,13 @@ Use this space to show useful examples of how a project can be used. Additional 
 </a>
 <a href="https://www.linkedin.com/in/proffapt/">
   <img align="center" alt="proffapt's LinkedIn" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" />
-</a> 
+</a>
 <a href="mailto:proffapt@pm.me">
   <img align="center" alt="proffapt's mail" width="22px" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/mail.svg" />
-</a> 
+</a>
 <a href="https://cybernity.group">
   <img align="center" alt="proffapt's forum for cybernity" width="22px" src="https://cybernity.group/uploads/default/original/1X/a8338f86bbbedd39701c85d5f32cf3d817c04c27.png" />
-</a> 
+</a>
 </p>
 
 <p align="right">(<a href="#top">back to top</a>)</p>

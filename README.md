@@ -166,7 +166,7 @@ Use this space to show useful examples of how a project can be used. Additional 
 ## Additional documentation
 
   - [Changelogs](/.github/CHANGELOG.md)
-  - [License](/LICENSE.txt)
+  - [License](/LICENSE)
   - [Security Policy](/.github/SECURITY.md)
   - [Code of Conduct](/.github/CODE_OF_CONDUCT.md)
   - [Contribution Guidelines](/.github/CONTRIBUTING.md)
@@ -184,6 +184,6 @@ Use this space to show useful examples of how a project can be used. Additional 
 [issues-shield]: https://img.shields.io/github/issues/proffapt/PROJECT_NAME.svg?style=for-the-badge
 [issues-url]: https://github.com/proffapt/PROJECT_NAME/issues
 [license-shield]: https://img.shields.io/github/license/proffapt/PROJECT_NAME.svg?style=for-the-badge
-[license-url]: https://github.com/proffapt/PROJECT_NAME/blob/master/LICENSE.txt
+[license-url]: https://github.com/proffapt/PROJECT_NAME/blob/master/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/proffapt

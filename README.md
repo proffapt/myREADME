@@ -27,12 +27,7 @@
   <!-- UPDATE -->
     <i>Project one liner slogan goes here</i>
     <br />
-    <a href="https://github.com/proffapt/PROJECT_NAME"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Request Feature</a>
+    <a href="https://github.com/proffapt/PROJECT_NAME/issues">Request Feature | Report Bug</a>
   </p>
 </div>
 
